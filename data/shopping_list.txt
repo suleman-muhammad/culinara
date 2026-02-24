@@ -1,0 +1,8 @@
+ADD flour 800
+ADD sugar 400
+ADD butter 250
+ADD chocolate 200
+USE eggs 8
+ADD cheese 50
+ADD bread 5
+REMOVE milk 100

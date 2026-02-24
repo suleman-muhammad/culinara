@@ -1,0 +1,85 @@
+
+[
+    {
+        "name": "Pancakes",
+        "ingredients": {
+            "flour": 200,
+            "sugar": 50,
+            "eggs": 1,
+            "milk": 300,
+            "salt": 5
+        }
+    },
+    {
+        "name": "Omelette",
+        "ingredients": {
+            "eggs": 3,
+            "milk": 50,
+            "cheese": 50,
+            "salt": 2
+        }
+    },
+    {
+        "name": "Simple Salad",
+        "ingredients": {
+            "lettuce": 1,
+            "tomato": 2,
+            "cucumber": 1
+        }
+    },
+    {
+        "name": "Spaghetti Bolognese",
+        "ingredients": {
+            "spaghetti": 400,
+            "ground beef": 500,
+            "onion": 1,
+            "garlic": 2,
+            "canned tomatoes": 800
+        }
+    },
+    {
+        "name": "Classic Burger",
+        "ingredients": {
+            "ground beef": 500,
+            "onion": 1,
+            "lettuce": 1,
+            "tomato": 1,
+            "cheese": 4,
+            "buns": 4
+        }
+    },
+    {
+        "name": "Guacamole",
+        "ingredients": {
+            "avocado": 3,
+            "onion": 1,
+            "tomato": 1,
+            "lime": 1
+        }
+    },
+    {
+        "name": "Tomato Soup",
+        "ingredients": {
+            "canned tomatoes": 800,
+            "onion": 1,
+            "garlic": 2,
+            "butter": 50
+        }
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": {
+            "bread": 2,
+            "cheese": 2,
+            "butter": 20
+        }
+    },
+    {
+        "name": "Lemonade",
+        "ingredients": {
+            "lemons": 4,
+            "sugar": 200,
+            "water": 1000   
+        }
+    }
+]

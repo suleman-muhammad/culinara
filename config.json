@@ -1,0 +1,5 @@
+{
+    "recipe_file": "data/recipes.json",
+    "pantry_file": "data/pantry.json",
+    "report_file": "reports/report.txt"
+}
